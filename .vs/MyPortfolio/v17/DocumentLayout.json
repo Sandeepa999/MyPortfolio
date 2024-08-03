@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ashma Sandeepa\\Desktop\\C#\\MyPortfolio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5A6C27C8-FACA-4233-82B9-49096C27BD12}|MyPortfolio.Web\\MyPortfolio.Web.csproj|c:\\users\\ashma sandeepa\\desktop\\c#\\myportfolio\\myportfolio.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5A6C27C8-FACA-4233-82B9-49096C27BD12}|MyPortfolio.Web\\MyPortfolio.Web.csproj|solutionrelative:myportfolio.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A6C27C8-FACA-4233-82B9-49096C27BD12}|MyPortfolio.Web\\MyPortfolio.Web.csproj|c:\\users\\ashma sandeepa\\desktop\\c#\\myportfolio\\myportfolio.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A6C27C8-FACA-4233-82B9-49096C27BD12}|MyPortfolio.Web\\MyPortfolio.Web.csproj|solutionrelative:myportfolio.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A6C27C8-FACA-4233-82B9-49096C27BD12}|MyPortfolio.Web\\MyPortfolio.Web.csproj|c:\\users\\ashma sandeepa\\desktop\\c#\\myportfolio\\myportfolio.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A6C27C8-FACA-4233-82B9-49096C27BD12}|MyPortfolio.Web\\MyPortfolio.Web.csproj|solutionrelative:myportfolio.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ashma Sandeepa\\Desktop\\C#\\MyPortfolio\\MyPortfolio.Web\\Program.cs",
+              "RelativeDocumentMoniker": "MyPortfolio.Web\\Program.cs",
+              "ToolTip": "C:\\Users\\Ashma Sandeepa\\Desktop\\C#\\MyPortfolio\\MyPortfolio.Web\\Program.cs",
+              "RelativeToolTip": "MyPortfolio.Web\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T17:42:11.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Ashma Sandeepa\\Desktop\\C#\\MyPortfolio\\MyPortfolio.Web\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MyPortfolio.Web\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Ashma Sandeepa\\Desktop\\C#\\MyPortfolio\\MyPortfolio.Web\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MyPortfolio.Web\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T17:38:52.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ashma Sandeepa\\Desktop\\C#\\MyPortfolio\\MyPortfolio.Web\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MyPortfolio.Web\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Ashma Sandeepa\\Desktop\\C#\\MyPortfolio\\MyPortfolio.Web\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MyPortfolio.Web\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAIcAAAAAAAAAAAAAAI8AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-20T08:27:01.992Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
